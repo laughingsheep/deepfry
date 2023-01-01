@@ -16,7 +16,7 @@ setup(
   description='Deepfry images with ease',
   long_description=readme,
   long_description_content_type='text/markdown',
-  install_requires=["Pillow==9.1.0"],
+  install_requires=["Pillow==9.3.0"],
   classifiers=[
     'Development Status :: 5 - Production/Stable',
     'License :: OSI Approved :: MIT License',
